@@ -1,4 +1,4 @@
-from src.model.encryption import CryptoHandler
+from src.model.crypto_handler import CryptoHandler
 
 
 def test_encryption() -> None:
